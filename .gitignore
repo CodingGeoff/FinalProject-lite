@@ -1,2 +1,14 @@
 draft.md
 **/test_*
+generate_requirements.py
+check_python_env.py
+export_requirements.py
+MC/
+MC/higgs2011.csv
+MC/higgs2012.csv
+MC/zzto2mu2e2011.csv
+MC/zzto2mu2e2012.csv
+MC/zzto4e2011.csv
+MC/zzto4e2012.csv
+MC/zzto4mu2011.csv
+MC/zzto4mu2012.csv
